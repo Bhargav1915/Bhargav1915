@@ -1,5 +1,7 @@
 <h1 align="center">Hello!Everyone I'm Bhargav Kanjuluri👋</h1>
 <h3 align="center">An Python Developer,Aspiring Data Scientist , An Open Source Contributor.</h3>
+<p align="left",img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav1915&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav1915" /> </p>
 
