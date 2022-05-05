@@ -1,4 +1,4 @@
-<a href="#"><img width="90%" height="auto" src="4a909b1ab71a2956800d8ceedc3ba99a.gif" height="175px"/></a>
+<a href="#"><img width="60%" height="auto" src="4a909b1ab71a2956800d8ceedc3ba99a.gif" height="50%"/></a>
 <br>
 # Hello! Everyone. I'm [BHARGAV KANJULURI](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
