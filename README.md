@@ -1,21 +1,115 @@
-<h1 align="center">Hello!Everyone I'm Bhargav Kanjuluri👋</h1>
-<h3 align="center">An Python Developer,Aspiring Data Scientist , An Open Source Contributor.</h3>
-<p align="left",img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav1915&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav1915" /> </p>
+# Hey Everyone! I'm [BHARGAV KANJULURI](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanjuluri-bhargav-93b5651ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanjuluri-bhargav-93b5651ab" height="30" width="40" /></a>
 <a href="https://fb.com/kanjuluri bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanjuluri bhargav" height="30" width="40" /></a>
 <a href="https://instagram.com/bhagi killer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhagi killer" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<br><br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Bhargav1915"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bhargav1915" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargav1915&show_icons=true&locale=en" alt="bhargav1915" /></p>
+## <p align="center"><h4 align="center"><samp> An Data Scientist, An Open Source Contributor, A Competitive Programmer.</samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+  
+- 🔭 I’m currently working on Machine Learning and DL
+- 🌱 I’m  learning Artificial Intelligence
+- 💬 Ask me about Computer Vision
+- 📫 How to reach me: bhargav.kanjuluri@gmail.com
+  <br>
+</div>
+
+##
+
+<div>
+<
+
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>
+
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+
+
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+
+  </span>
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+!
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+  
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+</span>
+<hr> 
+  
+
+
+  
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/kiransagar1"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Bhargav1915&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
+</p>
+  
+<br>
+  
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+### 📈 GitHub Activity:
+  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+<br>  
+
+
