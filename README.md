@@ -1,6 +1,6 @@
 <a href="#"><img width="60%" height="auto" src="4a909b1ab71a2956800d8ceedc3ba99a.gif" height="50%"/></a>
 <br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Bhargav+Kanjluri+%F0%9F%91%8B;I'm+a+JAVADeveloper%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=Blue&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Bhargav+Kanjuluri+%F0%9F%91%8B;I'm+a+JAVA+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
 <br><br>
 
 <p align="left">
