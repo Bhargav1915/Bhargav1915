@@ -20,8 +20,8 @@
   <br>
   
 - 🔭 I’m currently working As Senior Talent Acquisition Specialist (Certified Naukri Maestro Recruiter)
-- 🌱 I’m  learning Artificial Intelligence
-- 💬 Ask me about Computer Vision
+- 🌱 I’m  UI/UX Designer and Data Analyst 
+- 💬 Worked as a analyst and promtengineer.
 - 📫 How to reach me: bhargav.kanjuluri@gmail.com
   <br>
 </div>
