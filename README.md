@@ -16,7 +16,7 @@
 ## <p align="center"><h4 align="center"><samp> An Sourcing Expert , An Open Source Contributor, A Competitive Programmer.</samp></h4></p>
 
 <div>
-<img align="right" src="[https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif)" width="40%"/>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
 - 🔭 I’m currently working As Senior Talent Acquisition Specialist (Certified Naukri Maestro Recruiter)
