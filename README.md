@@ -1,4 +1,4 @@
-<a href="#"><img width="60%" height="auto" src="4a909b1ab71a2956800d8ceedc3ba99a.gif" height="50%"/></a>
+ <a href="#"><img width="60%" height="auto" src="4a909b1ab71a2956800d8ceedc3ba99a.gif" height="50%"/></a>
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=Blue&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Bhargav+Kanjuluri+%F0%9F%91%8B;I'm+a+Senior+Talent+Acquisition+Specialist%F0%9F%92%BB;I'm+a+Certified+Naukri+Maestro+Recruiter)](https://git.io/typing-svg)
 <br><br>
@@ -16,7 +16,7 @@
 ## <p align="center"><h4 align="center"><samp> An Sourcing Expert , An Open Source Contributor, A Competitive Programmer.</samp></h4></p>
 
 <div>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="30%"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="30%" left="30%"/>
   <br>
   
 - 🔭 I’m currently working As Senior Talent Acquisition Specialist (Certified Naukri Maestro Recruiter)
