@@ -21,7 +21,7 @@
   
 - 🔭 I’m currently working As Senior Talent Acquisition Specialist (Certified Naukri Maestro Recruiter)
 - 🌱 I’m  UI/UX Designer and Data Analyst 
-- 💬 Worked as a analyst and promtengineer.
+- 💬 Worked as a UI Designer ,analyst and Prompt engineering.
 - 📫 How to reach me: bhargav.kanjuluri@gmail.com
   <br>
 </div>
